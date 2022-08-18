@@ -10,7 +10,7 @@
 
 ## Yang telah dipelajari :
 ```
-0. Git & Github (Completed, 15-08-2022)
+0. Git & Github (Completed, 15-Agustus-2022)
 1. HTML (Completed, 27-Desember-2021)
 2. CSS (ongoing)
 3. PHP
