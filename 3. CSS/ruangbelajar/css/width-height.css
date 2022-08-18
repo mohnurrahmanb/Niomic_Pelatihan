@@ -1,0 +1,18 @@
+p{
+    background-color: orange;
+}
+
+.normal{
+    height: 100px;
+    width: 150px;
+}
+
+.min-p{
+    min-height: 100px;
+    width: 150px;
+}
+
+.max-p{
+    max-height: 100px;
+    width: 150px;
+}

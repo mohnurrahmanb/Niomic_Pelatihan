@@ -1,0 +1,35 @@
+h1{
+    color:red;
+}
+
+.belajar_id{
+    color:yellow;
+}
+
+
+.belajar_class{
+    color:brown;
+}
+.border{
+    border-style: solid;
+}
+
+h4, h5, h6{
+    color:aqua;
+}
+
+h3.belajar_spesifik{
+    color:blueviolet;
+}
+
+
+/* h1{
+    background-color: blue;
+}
+
+body{
+     background-image: url("../img/gambar.jpg");
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background: aqua url("../hack.jpg") no-repeat center top;
+} */
