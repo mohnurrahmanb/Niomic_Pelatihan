@@ -1,0 +1,14 @@
+.img-description{
+    width: 200px;
+    height: 100px;
+    /* none, right, left */
+    float:left;
+}
+
+.text-description{
+
+}
+
+h1{
+    display: inline-block;
+}

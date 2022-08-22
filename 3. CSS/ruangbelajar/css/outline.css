@@ -1,0 +1,18 @@
+.outlineCSS{
+    
+    /* outline-style: solid;
+    outline-color: blue;
+    /* outline-width: 20px; */
+    
+    /* sama dengan border*/
+    outline: solid 20px red;
+    /* memberi jarak 25px */
+    outline-offset: 25px; 
+    /* agar terlihat */
+    margin: 50px;
+    
+    
+    border-style: dotted;
+    border-color:orange;
+    border-width: 10px;
+}
