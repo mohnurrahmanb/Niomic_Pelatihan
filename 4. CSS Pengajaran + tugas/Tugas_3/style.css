@@ -1,0 +1,27 @@
+/* p{
+    background-color: gray;
+} */
+
+p.p_pertama{
+    background-color: orange;
+    border: solid 1px black;
+}
+
+p.p_kedua{
+    background-color: blue;
+    color: white;
+    border: solid 1px black;
+}
+
+p.p_ketiga{
+    font-family: Arial, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    border: solid 1px gray;
+}
+
+p.p_keempat{
+    background-color: gray;
+    font-weight: bold;
+    font-size: 25px;
+    border: solid 1px black;
+}

@@ -1,0 +1,30 @@
+/* element selector */
+h1 {
+text-transform: capitalize;
+}
+
+/* class selector */
+.p_pertama{
+text-align: center;
+}
+
+/* id selector */
+#p_kedua{
+text-decoration: underline;
+}
+
+/* universal selector */
+*{
+color:white;
+background-color: green;
+}
+
+/*group selector  */
+.p_ketiga, .p_keempat{
+text-align: center;
+}
+
+/* spesific selector */
+.p_kelima{
+text-decoration: line-through;
+}

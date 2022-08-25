@@ -1,0 +1,29 @@
+header{
+    background-color: black;
+}
+a{
+    color:white;
+    text-transform: uppercase;
+}
+
+img{
+    width: 600px;
+    height: 350px;
+}
+
+.slider-div{
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+p{
+    text-align: justify;
+}
+
+footer{
+    color:white;
+    background-color: black;
+    text-align: center;
+}
+

@@ -1,0 +1,26 @@
+p.satu{
+width: 250px;
+height: 100px;
+background-color: aqua;
+overflow:scroll;
+padding:10px;
+border:dotted red 10px;
+}
+
+p.dua{
+width: 250px;
+height: 100px;
+background-color: aqua;
+overflow:scroll;
+padding:10px;
+border: solid green;
+}
+
+p.tiga{
+width: 250px;
+height: 100px;
+background-color: aqua;
+overflow:scroll;
+padding:10px;
+border:dashed blue 10px;
+}
