@@ -12,9 +12,9 @@
 ```
 0. Git & Github (Completed, 15-Agustus-2022)
 1. HTML (Completed, 27-Desember-2021)
-2. CSS (ongoing)
-3. PHP
-4. JavaScript
+2. CSS (Completed, 24-September-2022)
+3. Javascript
+4. 
 5.
 6.
 7.
