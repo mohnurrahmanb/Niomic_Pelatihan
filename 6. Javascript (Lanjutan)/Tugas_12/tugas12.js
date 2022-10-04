@@ -4,7 +4,7 @@ function tampilkanArray(){
 }
 console.log(tampilkanArray());
 
-//Manipulasi hapus bagian belakang POP
+//POP = Manipulasi hapus bagian belakang POP
 function manipulasiArrayPop(){
     buah=tampilkanArray();
     buah.pop();
@@ -12,7 +12,7 @@ function manipulasiArrayPop(){
 }
 console.log(manipulasiArrayPop());
 
-//Manipulasi hapus bagian Depan SHIFT
+//SHIFT = Manipulasi hapus bagian Depan SHIFT
 function manipulasiArrayShift(){
     buah=tampilkanArray();
     buah.shift();
@@ -21,7 +21,7 @@ function manipulasiArrayShift(){
 }
 console.log(manipulasiArrayShift());
 
-// Manipulasi menambahkan Data Array Mulai dari Bagian Belakang
+// PUSH = Manipulasi menambahkan Data Array Mulai dari Bagian Belakang
 function manipulasiArrayPush(){
     buah=tampilkanArray();
     buah.push("Duren");

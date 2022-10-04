@@ -5,6 +5,8 @@ console.log("Nilai AB =", ab);
 
 console.log("Nilai BC =", bc);
 
+//POW = pangkat
+//SQRT = AKAR
 ab = Math.pow(ab,2);
 bc = Math.pow(bc,2);
 var ac= ab + bc;

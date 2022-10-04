@@ -4,7 +4,7 @@ function tampilkanArray(){
 }
 console.log(tampilkanArray());
 
-//Menambahkan Data Bagian Depan
+//UNSHIFT = Menambahkan Data Bagian Depan
 function manipulasiUnshift(){
     buah1=tampilkanArray();
     buah1.unshift("Apel","Mangga");
@@ -12,7 +12,7 @@ function manipulasiUnshift(){
 }
 console.log(manipulasiUnshift());
 
-//dapat menambahkan/menghapus data dimulai index terserah dengan Splice
+//SPLICE = dapat menambahkan/menghapus data dimulai index terserah dengan Splice
 function manipulasiSplice(){
     buah2=manipulasiUnshift();
     //splice = (mulai index, ada yang di remove berapa?, "isi nilainya")
