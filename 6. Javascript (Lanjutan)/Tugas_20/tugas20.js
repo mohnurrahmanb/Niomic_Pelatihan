@@ -13,8 +13,7 @@ var kalimat = "Aku suka coding HTML, CSS, Javascript untuk menjadi suka menjadi 
 console.log(kalimat.indexOf("coding"));
 //LASTINDEXOF = berfungsi mencari index ke berapa yang paling akhir ditemukan
 console.log(kalimat.lastIndexOf("suka"));
-//SEARCH = sama dengan indexOF dia juga dapat menjadi di convert menjadi regular extension
-console.log(kalimat.search("coding"));
+//SEARCH = sama dengan indexOF dia juga dapat menjadi di convert menjadi regular expression
 console.log(kalimat.search(/coding/)); //regular extension
 
 //KONVERSI ke STRING JS
